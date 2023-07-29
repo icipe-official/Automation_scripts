@@ -6,7 +6,7 @@ This repository contains a collection of various scripts aimed at automating com
 
 The repository is structured by the type of scripts, for easy navigation and usage. Here's a brief overview:
 
-- `Installation/`: Scripts related to installation of programs
+- [Install scripts](./installation/README.md): Scripts related to installation of programs
 
 ## Usage
 
