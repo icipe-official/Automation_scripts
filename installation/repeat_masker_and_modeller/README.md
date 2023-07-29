@@ -25,4 +25,5 @@ Please refer to the comments in each script for more detailed information about 
 
 These tools are widely used in genomics research, and automating their installation can help to streamline your workflow.
 
-For information about the other scripts in this repository, please refer to the [main README.md](../README.md).
+For information about the other installation scripts in this repository, please refer to the [ Installation scripts](../../README.md).
+For information about the other scripts in this repository, please refer to the [main README.md](../../README.md).
