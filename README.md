@@ -6,9 +6,7 @@ This repository contains a collection of various scripts aimed at automating com
 
 The repository is structured by the type of scripts, for easy navigation and usage. Here's a brief overview:
 
-- `system_admin/`: Scripts related to system administration tasks
-- `data_processing/`: Scripts for handling and processing data
-- `task_automation/`: General purpose automation scripts
+- `Installation/`: Scripts related to installation of programs
 
 ## Usage
 
