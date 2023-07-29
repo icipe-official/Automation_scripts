@@ -1,6 +1,6 @@
 # Installation Scripts
 
-This directory contains scripts that automate the installation of various software packages and utilities used in our projects.
+This directory contains scripts that automate the installation of various software packages and utilities used in ICIPE projects.
 
 ## Available Installation Scripts
 
