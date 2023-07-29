@@ -13,7 +13,7 @@ To use these installation scripts, please follow these steps:
 1. Navigate to this directory in your command line interface.
 2. Choose the installation script you want to run.
 3. Make sure the script has execute permissions. If it doesn't, you can add them with the command `chmod +x <script_name>`.
-4. Run the script with `./<script_name>` as a uper user ie with `sudo`.
+4. Run the script with `./<script_name>` as a super user ie with `sudo`.
 
 Please refer to the comments in each script for more detailed information about what the script does.
 
@@ -25,4 +25,4 @@ Please refer to the comments in each script for more detailed information about 
 
 These tools are widely used in genomics research, and automating their installation can help to streamline your workflow.
 
-For information about the other scripts in this repository, please refer to the [main README.md](../../README.md).
+For information about the other scripts in this repository, please refer to the [main README.md](../README.md).
