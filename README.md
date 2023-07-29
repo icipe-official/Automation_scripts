@@ -1,4 +1,4 @@
-# # Automation Scripts Repository
+#  Automation Scripts Repository
 
 This repository contains a collection of various scripts aimed at automating common tasks and saving time. These scripts cover a wide range of functionalities, from system administration to data processing, and are designed to make repetitive tasks more efficient.
 
