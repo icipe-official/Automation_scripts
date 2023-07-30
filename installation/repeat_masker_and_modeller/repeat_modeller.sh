@@ -15,7 +15,7 @@ make
 cd /usr/local/
 wget http://www.repeatmasker.org/RepeatScout-1.0.5.tar.gz
 tar zxvf RepeatScout-1.0.5.tar.gz
-cd RepeatScout-1.0.5/
+cd RepeatScout-1
 make
 
 # Install UCSC genome browser command-line utilities
@@ -26,11 +26,9 @@ chmod -R +x /usr/local/genome_browser_command_line_utilities
 
 # Install LtrHarvest
 cd /usr/local/
-wget http://genometools.org/pub/genometools-1.6.2.tar.gz
-tar zxvf genometools-1.6.2.tar.gz
-cd genometools-1.6.2/
-make threads=yes
-make install
+wget http://genometools.org/pub/binary_distributions/gt-1.5.10-Linux_x86_64-64bit-complete.tar.gz
+tar -zxvf gt-1.5.10-Linux_x86_64-64bit-complete.tar.gz
+chmod +x gt-1.5.10-Linux_x86_64-64bit-complete/bin/gt
 
 # Install Ltr_retriever
 # Visit https://github.com/oushujun/LTR_retriever/releases and follow instructions
@@ -45,5 +43,5 @@ apt-get install -y cd-hit
 cd /usr/local/
 wget https://github.com/TravisWheelerLab/NINJA/archive/refs/tags/0.98-cluster_only.zip
 unzip NINJA-0.98-cluster_only.zip
-cd NINJA-0.98-cluster_only
+cd 0.98-cluster_only
 make
