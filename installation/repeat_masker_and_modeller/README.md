@@ -5,6 +5,8 @@ This directory contains scripts to automate the installation of the [RepeatModel
 ## Available Installation Scripts
 
 - [RepeatMasker Installation](./repeat_masker.sh): This script automates the installation of RepeatMasker.
+- [RepeatModeller Installation](./repeat_modeller.sh): This script automates the installation of RepeatModeller.
+
 
 ## Using the Installation Scripts
 
@@ -14,7 +16,8 @@ To use these installation scripts, please follow these steps:
 2. Choose the installation script you want to run.
 3. Make sure the script has execute permissions. If it doesn't, you can add them with the command `chmod +x <script_name>`.
 4. Run the script with `./<script_name>` as a super user ie with `sudo`.
-
+## Post installation
+1. In the Recon  directory follow the configurateion instructions in the INSTALL file
 Please refer to the comments in each script for more detailed information about what the script does.
 
 ## About RepeatModeler and RepeatMasker
