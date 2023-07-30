@@ -18,6 +18,8 @@ To use these installation scripts, please follow these steps:
 4. Run the script with `./<script_name>` as a super user ie with `sudo`.
 ## Post installation
 1. In the Recon  directory follow the configurateion instructions in the INSTALL file
+2. Run `sudo perl ./configure` at the root path of Repeat masker and Repeat modeller this should also be rerun again for 
+   repeat masker if database is updated.
 Please refer to the comments in each script for more detailed information about what the script does.
 
 ## About RepeatModeler and RepeatMasker
