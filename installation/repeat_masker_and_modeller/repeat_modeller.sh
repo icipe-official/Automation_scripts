@@ -46,7 +46,7 @@ unzip 0.98-cluster_only.zip
 cd NINJA-0.98-cluster_only/NINJA
 make
 
-# Install repeat modeller
+# Install repeat modeller 
 cd
 wget https://github.com/Dfam-consortium/RepeatModeler/archive/refs/tags/2.0.4.zip
-unzip RepeatModeler-2.0.4.zip /usr/local/
+unzip 2.0.4.zip /usr/local/
