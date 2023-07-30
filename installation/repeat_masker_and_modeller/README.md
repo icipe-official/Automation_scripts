@@ -15,7 +15,8 @@ To use these installation scripts, please follow these steps:
 1. Navigate to this directory in your command line interface.
 2. Choose the installation script you want to run.
 3. Make sure the script has execute permissions. If it doesn't, you can add them with the command `chmod +x <script_name>`.
-4. Run the script with `./<script_name>` as a super user ie with `sudo`.
+4. Run the [RepeatMasker Installation](./repeat_masker.sh) before [RepeatModeller Installation](./repeat_modeller.sh)
+5. Run the script with `./<script_name>` as a super user ie with `sudo`.
 ## Post installation
 1. In the Recon  directory follow the configurateion instructions in the INSTALL file
 2. Run `sudo perl ./configure` at the root path of Repeat masker and Repeat modeller this should also be rerun again for 
