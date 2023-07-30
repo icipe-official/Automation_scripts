@@ -8,8 +8,9 @@ apt-get install -y perl rsync unzip build-essential
 cd /usr/local/
 wget http://www.repeatmasker.org/RepeatModeler/RECON-1.08.tar.gz
 tar zxvf RECON-1.08.tar.gz
-cd RECON-1.08/
+cd RECON-1.08/src
 make
+make install
 
 # Install RepeatScout
 cd /usr/local/
