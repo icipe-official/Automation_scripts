@@ -42,6 +42,6 @@ apt-get install -y cd-hit
 # Install Ninja
 cd /usr/local/
 wget https://github.com/TravisWheelerLab/NINJA/archive/refs/tags/0.98-cluster_only.zip
-unzip NINJA-0.98-cluster_only.zip
+unzip 0.98-cluster_only.zip
 cd 0.98-cluster_only
 make
